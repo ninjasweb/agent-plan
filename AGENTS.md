@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file follows the [AGENTS.md](https://agents.md) open standard: a tool-agnostic README for AI coding agents (Claude Code, Copilot, Cursor, Aider, and others) working in this repository. It provides the conventions and context needed to work on this project correctly.
 
 ## `/docs` Organization
 
